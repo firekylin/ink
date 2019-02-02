@@ -1,0 +1,22 @@
+{
+  "name": "ink",
+  "version": "1.0.0",
+  "description": "A React Markdown Editor for Firekylin.",
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firekylin/ink.git"
+  },
+  "keywords": [
+    "React",
+    "Markdown",
+    "Editor",
+    "Firekylin"
+  ],
+  "author": "lizheming<i@imnerd.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firekylin/ink/issues"
+  },
+  "homepage": "https://github.com/firekylin/ink#readme"
+}
